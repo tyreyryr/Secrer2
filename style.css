@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(110deg, red, #595, #fff);
+}
+
+ul a {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+    font-size: 40px;
+    padding-left: 300px;
+}
+
+.box {
+    background: linear-gradient(125deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 5px;
+    height: 14em;
+    width: 54em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+}
+
+.logo img {
+    padding-left: 400px;
+    height: 120px;
+}
+
+h2 {
+    padding-left: 375px;
+}
+
+ul a[id="Discord"] {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+    font-size: 40px;
+    padding-left: 310px;
+}
